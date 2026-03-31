@@ -1,0 +1,1165 @@
+{
+  "metadata": {
+    "name": "张雪峰老师语录库",
+    "description": "高考志愿填报与学业规划语录知识库",
+    "source": "gaokao-mentor-wisdom",
+    "license": "MIT",
+    "total_quotes": 164,
+    "categories": [
+      "专业选择",
+      "就业前景",
+      "人生哲理",
+      "院校推荐",
+      "学习建议",
+      "志愿填报策略"
+    ]
+  },
+  "quotes": {
+    "专业选择": [
+      {
+        "id": "zxf-zhuanye-001",
+        "text": "如果你家境一般，没有任何社会资源，不要学金融。",
+        "context": "直播中谈论金融专业就业门槛",
+        "tags": ["金融", "家境", "专业选择"],
+        "sentiment": "cautionary"
+      },
+      {
+        "id": "zxf-zhuanye-002",
+        "text": "计算机专业是普通家庭孩子改变命运性价比最高的专业。",
+        "context": "谈论计算机专业优势",
+        "tags": ["计算机", "普通家庭", "性价比"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-zhuanye-003",
+        "text": "生化环材，四大天坑，能不碰就别碰。",
+        "context": "谈四大天坑专业",
+        "tags": ["生化环材", "天坑专业", "警告"],
+        "sentiment": "critical"
+      },
+      {
+        "id": "zxf-zhuanye-004",
+        "text": "选专业就是选赛道。你选错了赛道，再努力也是白搭。",
+        "context": "专业选择重要性",
+        "tags": ["专业选择", "赛道", "人生选择"],
+        "sentiment": "cautionary"
+      },
+      {
+        "id": "zxf-zhuanye-005",
+        "text": "医学是穷人家孩子的好选择，但你要能吃苦。学制长、考试多，但熬出来越老越值钱。",
+        "context": "医学专业分析",
+        "tags": ["医学", "普通家庭", "长期主义"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-zhuanye-006",
+        "text": "师范教育是铁饭碗，尤其是部署师范院校的公费师范生。",
+        "context": "师范专业分析",
+        "tags": ["师范", "铁饭碗", "公费师范生"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-zhuanye-007",
+        "text": "电气工程进国家电网，性价比极高，比很多985都强。",
+        "context": "电气工程就业分析",
+        "tags": ["电气工程", "国家电网", "就业"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-zhuanye-008",
+        "text": "土木工程现在是夕阳产业，2019年之前和之后差距天上地下。",
+        "context": "土木工程现状",
+        "tags": ["土木工程", "夕阳产业", "警告"],
+        "sentiment": "critical"
+      },
+      {
+        "id": "zxf-zhuanye-009",
+        "text": "建筑学同理，房地产下行后哀鸿遍野。",
+        "context": "建筑学就业现状",
+        "tags": ["建筑学", "房地产", "警告"],
+        "sentiment": "critical"
+      },
+      {
+        "id": "zxf-zhuanye-010",
+        "text": "新闻学？如果你家不是特别有背景，别碰。",
+        "context": "新闻学专业分析",
+        "tags": ["新闻学", "媒体", "警告"],
+        "sentiment": "critical"
+      },
+      {
+        "id": "zxf-zhuanye-011",
+        "text": "小语种？普通家庭孩子学小语种，毕业即失业。",
+        "context": "小语种就业困境",
+        "tags": ["小语种", "就业", "警告"],
+        "sentiment": "critical"
+      },
+      {
+        "id": "zxf-zhuanye-012",
+        "text": "汉语言文学是考公神器，公务员岗位最多。",
+        "context": "汉语言文学考公优势",
+        "tags": ["汉语言文学", "考公", "神器"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-zhuanye-013",
+        "text": "法学要过司考，五院四系之外的都是渣渣。",
+        "context": "法学专业分析",
+        "tags": ["法学", "司考", "五院四系"],
+        "sentiment": "neutral"
+      },
+      {
+        "id": "zxf-zhuanye-014",
+        "text": "会计从业面广，但起薪低，要往上爬得靠证书。",
+        "context": "会计专业分析",
+        "tags": ["会计", "就业面", "证书"],
+        "sentiment": "neutral"
+      },
+      {
+        "id": "zxf-zhuanye-015",
+        "text": "统计学/数据科学是未来趋势，就业面非常广。",
+        "context": "新兴专业分析",
+        "tags": ["统计学", "数据科学", "未来趋势"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-zhuanye-016",
+        "text": "药学比医学短平快，性价比高，进药企或医院都行。",
+        "context": "药学专业分析",
+        "tags": ["药学", "性价比", "就业"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-zhuanye-017",
+        "text": "自动化专业万金油，什么都能干，考研也有优势。",
+        "context": "自动化专业分析",
+        "tags": ["自动化", "万金油", "考研"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-zhuanye-018",
+        "text": "心理学？毕业能干什么？心理咨询师养活不了自己。",
+        "context": "心理学专业分析",
+        "tags": ["心理学", "就业", "警告"],
+        "sentiment": "critical"
+      },
+      {
+        "id": "zxf-zhuanye-019",
+        "text": "艺术设计？没有家族企业对接，别做梦了。",
+        "context": "艺术设计专业分析",
+        "tags": ["艺术设计", "资源依赖", "警告"],
+        "sentiment": "critical"
+      },
+      {
+        "id": "zxf-zhuanye-020",
+        "text": "农学？毕业干什么？种地吗？",
+        "context": "农学专业分析",
+        "tags": ["农学", "就业", "警告"],
+        "sentiment": "critical"
+      },
+      {
+        "id": "zxf-zhuanye-021",
+        "text": "军校警校包分配，但要知道代价是什么。",
+        "context": "军校警校分析",
+        "tags": ["军校", "警校", "包分配"],
+        "sentiment": "neutral"
+      },
+      {
+        "id": "zxf-zhuanye-022",
+        "text": "计算机35岁危机是真实的，但前15年赚的可能够你躺平。",
+        "context": "计算机职业周期",
+        "tags": ["计算机", "35岁危机", "职业规划"],
+        "sentiment": "cautionary"
+      },
+      {
+        "id": "zxf-zhuanye-023",
+        "text": "护理专业适合求稳的女孩，男护理更吃香。",
+        "context": "护理专业分析",
+        "tags": ["护理", "就业", "性别优势"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-zhuanye-024",
+        "text": "电子商务？大学里学的那套和实际脱节严重。",
+        "context": "电子商务专业",
+        "tags": ["电子商务", "理论脱节", "警告"],
+        "sentiment": "critical"
+      },
+      {
+        "id": "zxf-zhuanye-025",
+        "text": "国际贸易？英语好家里有外贸渠道的才有用。",
+        "context": "国际贸易专业",
+        "tags": ["国际贸易", "资源依赖", "警告"],
+        "sentiment": "critical"
+      },
+      {
+        "id": "zxf-zhuanye-026",
+        "text": "公共管理？听起来高大上，实际上考公都只能报三不限。",
+        "context": "公共管理专业",
+        "tags": ["公共管理", "考公", "警告"],
+        "sentiment": "critical"
+      },
+      {
+        "id": "zxf-zhuanye-027",
+        "text": "兽医？宠物经济在发展，但挣的是辛苦钱。",
+        "context": "兽医专业分析",
+        "tags": ["兽医", "宠物经济", "中性"],
+        "sentiment": "neutral"
+      },
+      {
+        "id": "zxf-zhuanye-028",
+        "text": "体育专业？除非你能当明星运动员，否则毕业等于失业。",
+        "context": "体育专业分析",
+        "tags": ["体育", "职业风险", "警告"],
+        "sentiment": "critical"
+      },
+      {
+        "id": "zxf-zhuanye-029",
+        "text": "普通家庭选专业，选能吃上饭的，情怀不能当饭吃。",
+        "context": "专业选择务实建议",
+        "tags": ["普通家庭", "务实", "专业选择"],
+        "sentiment": "cautionary"
+      },
+      {
+        "id": "zxf-zhuanye-030",
+        "text": "你选的不是专业，是未来十年的生活方式。",
+        "context": "专业选择的长远影响",
+        "tags": ["专业选择", "生活方式", "人生规划"],
+        "sentiment": "cautionary"
+      },
+      {
+        "id": "zxf-zhuanye-031",
+        "text": "孩子非要报新闻学，我一定会把他打晕，然后给他报个别的。",
+        "context": "新闻学专业警告",
+        "tags": ["新闻学", "专业选择", "警告"],
+        "sentiment": "critical"
+      },
+      {
+        "id": "zxf-zhuanye-032",
+        "text": "文科都是服务业，总结成一个字就是'舔'。",
+        "context": "文科专业特点分析",
+        "tags": ["文科", "服务业", "专业选择"],
+        "sentiment": "cautionary"
+      },
+      {
+        "id": "zxf-zhuanye-033",
+        "text": "家长别盲目跟风报志愿，要结合孩子和家庭的实际情况。",
+        "context": "志愿填报建议",
+        "tags": ["家长", "志愿填报", "实际情况"],
+        "sentiment": "cautionary"
+      },
+      {
+        "id": "zxf-zhuanye-034",
+        "text": "普通家庭孩子不能光谈理想，要考虑现实。",
+        "context": "普通家庭孩子专业选择",
+        "tags": ["普通家庭", "理想", "现实"],
+        "sentiment": "cautionary"
+      },
+      {
+        "id": "zxf-zhuanye-035",
+        "text": "教育的本质，是父母的三观和眼界。",
+        "context": "教育本质探讨",
+        "tags": ["教育", "父母", "眼界"],
+        "sentiment": "neutral"
+      },
+      {
+        "id": "zxf-zhuanye-036",
+        "text": "父母给的是背景，自己打的是江山。",
+        "context": "自我奋斗重要性",
+        "tags": ["父母", "自我奋斗", "独立"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-zhuanye-037",
+        "text": "高考是人生最后一次公平竞争。",
+        "context": "高考意义",
+        "tags": ["高考", "公平", "人生"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-zhuanye-038",
+        "text": "学习是你这辈子能遇到的最简单的事。",
+        "context": "学习相对简单性",
+        "tags": ["学习", "简单", "相对比较"],
+        "sentiment": "positive"
+      }
+    ],
+    "就业前景": [
+      {
+        "id": "zxf-jiuye-001",
+        "text": "第一份工作非常重要，它决定了你未来的起点。",
+        "context": "第一份工作的重要性",
+        "tags": ["第一份工作", "职业起点"],
+        "sentiment": "cautionary"
+      },
+      {
+        "id": "zxf-jiuye-002",
+        "text": "金融行业高度依赖家庭背景和人脉资源，普通家庭毕业生大多只能去银行卖理财产品。",
+        "context": "金融行业就业现实",
+        "tags": ["金融", "家庭背景", "就业现实"],
+        "sentiment": "critical"
+      },
+      {
+        "id": "zxf-jiuye-003",
+        "text": "互联网35岁危机是真实的，要提前做好职业规划。",
+        "context": "互联网职业危机",
+        "tags": ["互联网", "35岁危机", "职业规划"],
+        "sentiment": "cautionary"
+      },
+      {
+        "id": "zxf-jiuye-004",
+        "text": "国企优势是旱涝保收，退休有保障。",
+        "context": "国企vs私企",
+        "tags": ["国企", "稳定性", "退休保障"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-jiuye-005",
+        "text": "私企讲究狼性文化，996是常态，要有心理准备。",
+        "context": "私企工作文化",
+        "tags": ["私企", "996", "工作文化"],
+        "sentiment": "cautionary"
+      },
+      {
+        "id": "zxf-jiuye-006",
+        "text": "考研可以延迟就业，但三年后就业竞争会更激烈。",
+        "context": "考研的利弊",
+        "tags": ["考研", "延迟就业", "竞争"],
+        "sentiment": "neutral"
+      },
+      {
+        "id": "zxf-jiuye-007",
+        "text": "大城市机会多，但成本也高，要算清楚账。",
+        "context": "大城市就业分析",
+        "tags": ["大城市", "机会", "生活成本"],
+        "sentiment": "neutral"
+      },
+      {
+        "id": "zxf-jiuye-008",
+        "text": "行业有周期，不要在最高点冲进去。",
+        "context": "行业周期风险",
+        "tags": ["行业周期", "投资风险", "择业"],
+        "sentiment": "cautionary"
+      },
+      {
+        "id": "zxf-jiuye-009",
+        "text": "性别就业差距依然存在，某些行业对女性不友好。",
+        "context": "性别就业歧视",
+        "tags": ["性别歧视", "就业", "职业选择"],
+        "sentiment": "critical"
+      },
+      {
+        "id": "zxf-jiuye-010",
+        "text": "起薪低不可怕，可怕的是天花板也低。",
+        "context": "职业天花板",
+        "tags": ["起薪", "天花板", "职业规划"],
+        "sentiment": "cautionary"
+      },
+      {
+        "id": "zxf-jiuye-011",
+        "text": "海归现在贬值严重，一年制硕士用人单位不认了。",
+        "context": "海归就业现状",
+        "tags": ["海归", "留学", "学历贬值"],
+        "sentiment": "critical"
+      },
+      {
+        "id": "zxf-jiuye-012",
+        "text": "考公考编是当代年轻人最大的确定性。",
+        "context": "考公考编优势",
+        "tags": ["考公", "考编", "稳定性"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-jiuye-013",
+        "text": "程序员过剩但高端人才稀缺，要往深处学。",
+        "context": "程序员就业现状",
+        "tags": ["程序员", "人才过剩", "核心竞争力"],
+        "sentiment": "cautionary"
+      },
+      {
+        "id": "zxf-jiuye-014",
+        "text": "人工智能会替代很多工作，但无法替代顶尖人才。",
+        "context": "AI对就业的影响",
+        "tags": ["人工智能", "就业冲击", "未来趋势"],
+        "sentiment": "cautionary"
+      },
+      {
+        "id": "zxf-jiuye-015",
+        "text": "创业？普通人别想了，先活下去再说。",
+        "context": "创业风险",
+        "tags": ["创业", "普通家庭", "风险"],
+        "sentiment": "critical"
+      },
+      {
+        "id": "zxf-jiuye-016",
+        "text": "职场35岁现象：企业不招35岁以上的基层员工。",
+        "context": "职场年龄歧视",
+        "tags": ["35岁现象", "年龄歧视", "职业危机"],
+        "sentiment": "critical"
+      },
+      {
+        "id": "zxf-jiuye-017",
+        "text": "自媒体看似美好，99%的人月入不超过三千。",
+        "context": "自媒体行业现实",
+        "tags": ["自媒体", "收入现实", "警告"],
+        "sentiment": "critical"
+      },
+      {
+        "id": "zxf-jiuye-018",
+        "text": "选对行业比选对公司更重要，行业下行时神仙也难救。",
+        "context": "行业选择重要性",
+        "tags": ["行业选择", "公司选择", "优先级"],
+        "sentiment": "cautionary"
+      },
+      {
+        "id": "zxf-jiuye-019",
+        "text": "学历是敲门砖，没有这块砖，你连门都进不去。",
+        "context": "学历重要性",
+        "tags": ["学历", "敲门砖", "就业门槛"],
+        "sentiment": "cautionary"
+      },
+      {
+        "id": "zxf-jiuye-020",
+        "text": "职场只相信能力和结果。",
+        "context": "职场现实",
+        "tags": ["职场", "能力", "结果导向"],
+        "sentiment": "neutral"
+      },
+      {
+        "id": "zxf-jiuye-021",
+        "text": "赚钱不丢人，没本事赚钱才丢人。",
+        "context": "金钱观",
+        "tags": ["赚钱", "能力", "价值观"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-jiuye-022",
+        "text": "没有稳定的工作，只有稳定的能力。",
+        "context": "职场稳定性",
+        "tags": ["稳定", "能力", "职业规划"],
+        "sentiment": "cautionary"
+      },
+      {
+        "id": "zxf-jiuye-023",
+        "text": "你的工资，永远和你的不可替代性成正比。",
+        "context": "薪资与不可替代性",
+        "tags": ["工资", "不可替代性", "核心竞争力"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-jiuye-024",
+        "text": "平台再好，你没能力，照样被淘汰。",
+        "context": "平台与能力",
+        "tags": ["平台", "能力", "淘汰"],
+        "sentiment": "cautionary"
+      },
+      {
+        "id": "zxf-jiuye-025",
+        "text": "与其抱怨工作累，不如想想怎么让自己更值钱。",
+        "context": "职场抱怨无用",
+        "tags": ["抱怨", "自我提升", "值多少钱"],
+        "sentiment": "cautionary"
+      },
+      {
+        "id": "zxf-jiuye-026",
+        "text": "职场最忌讳玻璃心，受点委屈就受不了难成大事。",
+        "context": "职场心理素质",
+        "tags": ["玻璃心", "心理素质", "职场"],
+        "sentiment": "cautionary"
+      },
+      {
+        "id": "zxf-jiuye-027",
+        "text": "跳槽要谨慎，别为了一点工资就频繁换工作。",
+        "context": "跳槽建议",
+        "tags": ["跳槽", "谨慎", "职业发展"],
+        "sentiment": "cautionary"
+      },
+      {
+        "id": "zxf-jiuye-028",
+        "text": "工作不仅是为了赚钱，更是为了成长、为了未来。",
+        "context": "工作意义",
+        "tags": ["工作", "成长", "未来"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-jiuye-029",
+        "text": "人脉不是你认识多少人，而是多少人认识你、需要你。",
+        "context": "人脉本质",
+        "tags": ["人脉", "价值", "社交"],
+        "sentiment": "cautionary"
+      },
+      {
+        "id": "zxf-jiuye-030",
+        "text": "社会就是一个大筛子，用学历筛孩子，用房子筛父母，用工作筛家庭。",
+        "context": "社会筛选机制",
+        "tags": ["社会", "学历", "筛选"],
+        "sentiment": "neutral"
+      },
+      {
+        "id": "zxf-jiuye-031",
+        "text": "人和人的差距，在毕业十年后爆炸。",
+        "context": "毕业后的差距",
+        "tags": ["差距", "时间", "毕业"],
+        "sentiment": "cautionary"
+      },
+      {
+        "id": "zxf-jiuye-032",
+        "text": "学历贬值是趋势，但高学历依然是普通人的护城河。",
+        "context": "学历价值变化",
+        "tags": ["学历贬值", "护城河", "普通人"],
+        "sentiment": "neutral"
+      },
+      {
+        "id": "zxf-jiuye-033",
+        "text": "教育的本质，是让你有更多选择的权利。",
+        "context": "教育的本质",
+        "tags": ["教育", "选择权", "本质"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-jiuye-034",
+        "text": "听专家的不如听国家的，看十四五规划比听网红吹水靠谱。",
+        "context": "信息源可靠性",
+        "tags": ["专家", "国家政策", "十四五规划"],
+        "sentiment": "cautionary"
+      },
+      {
+        "id": "zxf-jiuye-035",
+        "text": "世界500强嘴上说学历不重要，但不会去二三本招聘。",
+        "context": "招聘现实",
+        "tags": ["500强", "学历", "招聘"],
+        "sentiment": "critical"
+      },
+      {
+        "id": "zxf-jiuye-036",
+        "text": "职场拼的不是学历，是持续学习的能力。",
+        "context": "职场核心竞争力",
+        "tags": ["职场", "学历", "持续学习"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-jiuye-037",
+        "text": "原生家庭的天花板，需要你用教育捅破。",
+        "context": "教育打破阶层",
+        "tags": ["原生家庭", "教育", "阶层"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-jiuye-038",
+        "text": "内向老实的孩子，千万不能掉入社会底层。",
+        "context": "性格与阶层",
+        "tags": ["内向", "社会底层", "警告"],
+        "sentiment": "cautionary"
+      },
+      {
+        "id": "zxf-jiuye-039",
+        "text": "社会的本质是弱肉强食，你没实力就会被淘汰。",
+        "context": "社会现实",
+        "tags": ["社会", "实力", "竞争"],
+        "sentiment": "cautionary"
+      }
+    ],
+    "人生哲理": [
+      {
+        "id": "zxf-rensheng-001",
+        "text": "高考是普通人改变命运成本最低的方式，没有之一。",
+        "context": "高考的意义",
+        "tags": ["高考", "改变命运", "普通人"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-rensheng-002",
+        "text": "你看到的那些说学历不重要的人，他们自己全是名校毕业。",
+        "context": "学历重要性",
+        "tags": ["学历", "名校", "双标"],
+        "sentiment": "cautionary"
+      },
+      {
+        "id": "zxf-rensheng-003",
+        "text": "18岁选错了路，你可能要用一辈子来纠正。",
+        "context": "人生选择的重要性",
+        "tags": ["18岁", "选择", "容错率"],
+        "sentiment": "cautionary"
+      },
+      {
+        "id": "zxf-rensheng-004",
+        "text": "阶层固化是真实存在的，但教育是打破固化的最有效通道。",
+        "context": "阶层固化与教育",
+        "tags": ["阶层固化", "教育", "上升通道"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-rensheng-005",
+        "text": "信息差决定命运，同样的分数不同的选择结果天差地别。",
+        "context": "信息差的重要性",
+        "tags": ["信息差", "决策", "志愿填报"],
+        "sentiment": "cautionary"
+      },
+      {
+        "id": "zxf-rensheng-006",
+        "text": "平台比努力重要，但大多数普通人没有选择平台的能力。",
+        "context": "平台vs努力",
+        "tags": ["平台", "努力", "选择权"],
+        "sentiment": "neutral"
+      },
+      {
+        "id": "zxf-rensheng-007",
+        "text": "婚姻和经济基础强相关，贫贱夫妻百事哀是真实的。",
+        "context": "婚姻与经济",
+        "tags": ["婚姻", "经济基础", "现实"],
+        "sentiment": "cautionary"
+      },
+      {
+        "id": "zxf-rensheng-008",
+        "text": "普通人的试错成本极高，一次重大错误可能万劫不复。",
+        "context": "试错成本",
+        "tags": ["普通家庭", "试错成本", "风险"],
+        "sentiment": "cautionary"
+      },
+      {
+        "id": "zxf-rensheng-009",
+        "text": "父母的高度决定了孩子的起点，但孩子可以通过教育超越父母。",
+        "context": "代际传递",
+        "tags": ["代际传递", "教育", "超越"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-rensheng-010",
+        "text": "人脉的本质是等价交换，你自己不牛，认识谁都没用。",
+        "context": "人脉本质",
+        "tags": ["人脉", "等价交换", "自我提升"],
+        "sentiment": "cautionary"
+      },
+      {
+        "id": "zxf-rensheng-011",
+        "text": "认清自己比什么都重要，不是每个人都适合创业或当科学家。",
+        "context": "自我认知",
+        "tags": ["自我认知", "定位", "职业规划"],
+        "sentiment": "cautionary"
+      },
+      {
+        "id": "zxf-rensheng-012",
+        "text": "先苦后甜是普通人唯一的路，没有捷径。",
+        "context": "吃苦哲学",
+        "tags": ["吃苦", "奋斗", "长期主义"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-rensheng-013",
+        "text": "地区不平等是客观现实，一线城市和十八线城市是两种人生。",
+        "context": "地区差异",
+        "tags": ["地区差异", "城市选择", "人生"],
+        "sentiment": "neutral"
+      },
+      {
+        "id": "zxf-rensheng-014",
+        "text": "读书不是唯一的路，但对于普通家庭孩子是最稳的路。",
+        "context": "读书的意义",
+        "tags": ["读书", "普通家庭", "出路"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-rensheng-015",
+        "text": "不要相信那些说"读书无用论"的人，他们要么是蠢要么是坏。",
+        "context": "批判读书无用论",
+        "tags": ["读书无用论", "批判", "教育"],
+        "sentiment": "critical"
+      },
+      {
+        "id": "zxf-rensheng-016",
+        "text": "幸福是比较出来的，但不幸也是，认清这一点很重要。",
+        "context": "比较心理学",
+        "tags": ["比较", "幸福", "心态"],
+        "sentiment": "neutral"
+      },
+      {
+        "id": "zxf-rensheng-017",
+        "text": "时间是普通人唯一的公平资源，浪费不起。",
+        "context": "时间价值",
+        "tags": ["时间", "公平", "资源"],
+        "sentiment": "cautionary"
+      },
+      {
+        "id": "zxf-rensheng-018",
+        "text": "普通人的容错率几乎为零，每一次选择都要慎重。",
+        "context": "容错率",
+        "tags": ["普通家庭", "容错率", "选择"],
+        "sentiment": "cautionary"
+      },
+      {
+        "id": "zxf-rensheng-019",
+        "text": "选择比努力更重要，但"有得选"的前提是你足够努力。",
+        "context": "选择与努力的关系",
+        "tags": ["选择", "努力", "前提"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-rensheng-020",
+        "text": "年轻人别总想着躺平，现在躺，将来就得跪着生活。",
+        "context": "躺平警告",
+        "tags": ["躺平", "年轻人", "奋斗"],
+        "sentiment": "cautionary"
+      },
+      {
+        "id": "zxf-rensheng-021",
+        "text": "考研不是唯一出路，但对普通人来说，是改变命运性价比最高的路。",
+        "context": "考研意义",
+        "tags": ["考研", "普通人", "性价比"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-rensheng-022",
+        "text": "人生最大的遗憾，不是我不行，而是我本可以。",
+        "context": "人生遗憾",
+        "tags": ["遗憾", "努力", "后悔"],
+        "sentiment": "cautionary"
+      },
+      {
+        "id": "zxf-rensheng-023",
+        "text": "你可以平凡，但不能平庸。",
+        "context": "平凡与平庸",
+        "tags": ["平凡", "平庸", "人生态度"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-rensheng-024",
+        "text": "抱怨没用，要么改变，要么接受。",
+        "context": "抱怨无用",
+        "tags": ["抱怨", "改变", "接受"],
+        "sentiment": "cautionary"
+      },
+      {
+        "id": "zxf-rensheng-025",
+        "text": "机会总是留给有准备的人。",
+        "context": "机会与准备",
+        "tags": ["机会", "准备", "成功"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-rensheng-026",
+        "text": "现在的你，决定明天的你。",
+        "context": "因果关系",
+        "tags": ["现在", "未来", "决定"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-rensheng-027",
+        "text": "努力不一定成功，但放弃一定失败。",
+        "context": "努力的意义",
+        "tags": ["努力", "放弃", "成功"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-rensheng-028",
+        "text": "人生没有白走的路，每一步都算数。",
+        "context": "经历的价值",
+        "tags": ["人生", "经历", "价值"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-rensheng-029",
+        "text": "不要在该奋斗的年纪选择安逸。",
+        "context": "奋斗年龄",
+        "tags": ["奋斗", "安逸", "年龄"],
+        "sentiment": "cautionary"
+      },
+      {
+        "id": "zxf-rensheng-030",
+        "text": "你若盛开，蝴蝶自来；你若精彩，天自安排。",
+        "context": "自我提升",
+        "tags": ["盛开", "精彩", "自然结果"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-rensheng-031",
+        "text": "三代人的闯关游戏：爷爷拼房子，爸爸拼工作，你拼学历。",
+        "context": "代际努力",
+        "tags": ["三代人", "努力", "接力"],
+        "sentiment": "neutral"
+      },
+      {
+        "id": "zxf-rensheng-032",
+        "text": "寒门最大劣势不是缺钱，而是没人指引，总错过改变命运的机会。",
+        "context": "寒门劣势",
+        "tags": ["寒门", "信息差", "指引"],
+        "sentiment": "cautionary"
+      },
+      {
+        "id": "zxf-rensheng-033",
+        "text": "没有伞的孩子，必须努力奔跑。",
+        "context": "逆境奋斗",
+        "tags": ["逆境", "努力", "奋斗"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-rensheng-034",
+        "text": "人和人最公平的是每天24小时，利用好就能比别人先走一步。",
+        "context": "时间公平",
+        "tags": ["时间", "公平", "利用"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-rensheng-035",
+        "text": "现在躺平一时爽，35岁求职火葬场。",
+        "context": "躺平后果",
+        "tags": ["躺平", "35岁", "后果"],
+        "sentiment": "critical"
+      },
+      {
+        "id": "zxf-rensheng-036",
+        "text": "努力上瘾后，你会发现躺平比努力更难受。",
+        "context": "努力习惯",
+        "tags": ["努力", "躺平", "习惯"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-rensheng-037",
+        "text": "你可以不优秀，但不能不努力。",
+        "context": "努力必要性",
+        "tags": ["优秀", "努力", "态度"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-rensheng-038",
+        "text": "人生没有捷径，所有的好运都是努力的伏笔。",
+        "context": "捷径不存在",
+        "tags": ["捷径", "好运", "努力"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-rensheng-039",
+        "text": "你有多努力，就有多特殊。",
+        "context": "努力与收获",
+        "tags": ["努力", "特殊", "回报"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-rensheng-040",
+        "text": "不要让未来的你，讨厌现在的自己。",
+        "context": "后悔预防",
+        "tags": ["未来", "现在", "后悔"],
+        "sentiment": "cautionary"
+      },
+      {
+        "id": "zxf-rensheng-041",
+        "text": "趁年轻，拼一把，别留遗憾。",
+        "context": "年轻奋斗",
+        "tags": ["年轻", "拼搏", "遗憾"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-rensheng-042",
+        "text": "人生最大的失败，不是你没成功，而是你从未出发。",
+        "context": "出发的重要性",
+        "tags": ["失败", "出发", "遗憾"],
+        "sentiment": "cautionary"
+      },
+      {
+        "id": "zxf-rensheng-043",
+        "text": "三代人中总有一代要拼命，你不想苦，就得让孩子苦。",
+        "context": "代际努力",
+        "tags": ["三代", "拼命", "选择"],
+        "sentiment": "cautionary"
+      }
+    ],
+    "院校推荐": [
+      {
+        "id": "zxf-yuanxiao-001",
+        "text": "宁去大城市的211，不去小城市的985。",
+        "context": "城市vs学校层次",
+        "tags": ["城市选择", "211", "985", "优先级"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-yuanxiao-002",
+        "text": "能上985就别去211，除非你能去一线城市的强势211。",
+        "context": "985vs211选择",
+        "tags": ["985", "211", "优先级"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-yuanxiao-003",
+        "text": "哈工大威海性价比极高，分数低但牌子硬。",
+        "context": "性价比985推荐",
+        "tags": ["哈工大威海", "性价比", "985"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-yuanxiao-004",
+        "text": "东北大学985分数，够不着好专业就去西部的。",
+        "context": "性价比985推荐",
+        "tags": ["东北大学", "985", "性价比"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-yuanxiao-005",
+        "text": "西北农林科技大学985分数，换个名字就不行了？",
+        "context": "性价比985推荐",
+        "tags": ["西北农林", "985", "性价比"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-yuanxiao-006",
+        "text": "中国海洋大学985分数，偏但牌子够硬。",
+        "context": "性价比985推荐",
+        "tags": ["中国海洋", "985", "性价比"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-yuanxiao-007",
+        "text": "兰州大学985分数，位置偏但实力强。",
+        "context": "性价比985推荐",
+        "tags": ["兰州大学", "985", "性价比"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-yuanxiao-008",
+        "text": "上海大学强势211，分数线逼近985。",
+        "context": "强势211推荐",
+        "tags": ["上海大学", "211", "强势"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-yuanxiao-009",
+        "text": "南京理工、合肥工大、苏州大学都是宝藏211。",
+        "context": "宝藏211推荐",
+        "tags": ["南京理工", "合肥工大", "苏州大学", "211"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-yuanxiao-010",
+        "text": "省会城市资源优势明显，实习机会多。",
+        "context": "城市选择策略",
+        "tags": ["省会城市", "资源优势", "实习"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-yuanxiao-011",
+        "text": "独立学院和民办大学要警惕，很多是坑钱。",
+        "context": "独立学院警告",
+        "tags": ["独立学院", "民办", "警惕"],
+        "sentiment": "critical"
+      },
+      {
+        "id": "zxf-yuanxiao-012",
+        "text": "高职和烂本科，宁可选好专科的好专业。",
+        "context": "高职vs烂本科",
+        "tags": ["高职", "专科", "本科"],
+        "sentiment": "cautionary"
+      },
+      {
+        "id": "zxf-yuanxiao-013",
+        "text": "双一流和985/211哪个重要？能用985/211就不用看双一流。",
+        "context": "双一流vs985/211",
+        "tags": ["双一流", "985", "211"],
+        "sentiment": "neutral"
+      },
+      {
+        "id": "zxf-yuanxiao-014",
+        "text": "分数不够的时候，先想办法进去再转专业。",
+        "context": "转专业策略",
+        "tags": ["转专业", "策略", "低分进入"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-yuanxiao-015",
+        "text": "中外合作办学要算清楚账，值不值看你家庭条件。",
+        "context": "中外合作办学",
+        "tags": ["中外合作", "费用", "性价比"],
+        "sentiment": "neutral"
+      },
+      {
+        "id": "zxf-yuanxiao-016",
+        "text": "地理锁定效应：你在哪个城市读书，大概率就在那个城市工作。",
+        "context": "城市锁定效应",
+        "tags": ["地理锁定", "城市选择", "就业"],
+        "sentiment": "cautionary"
+      }
+    ],
+    "学习建议": [
+      {
+        "id": "zxf-xuexi-001",
+        "text": "别做感动自己式学习，熬夜不等于努力。",
+        "context": "批判伪勤奋",
+        "tags": ["伪勤奋", "效率", "学习方法"],
+        "sentiment": "critical"
+      },
+      {
+        "id": "zxf-xuexi-002",
+        "text": "数学拉分最厉害，把数学学好能超过80%的人。",
+        "context": "数学重要性",
+        "tags": ["数学", "拉分", "科目重要性"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-xuexi-003",
+        "text": "补短板比扬长板更重要，高考看的是总分。",
+        "context": "高考策略",
+        "tags": ["补短板", "高考", "总分"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-xuexi-004",
+        "text": "考场心态决定发挥，平时怎么考考场上就怎么考。",
+        "context": "考场心态",
+        "tags": ["考场心态", "发挥", "心理素质"],
+        "sentiment": "cautionary"
+      },
+      {
+        "id": "zxf-xuexi-005",
+        "text": "模拟考的态度决定了高考的态度，认真对待每一次。",
+        "context": "模拟考意义",
+        "tags": ["模拟考", "态度", "高考准备"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-xuexi-006",
+        "text": "时间管理比努力更重要，要知道自己时间花在哪了。",
+        "context": "时间管理",
+        "tags": ["时间管理", "效率", "学习策略"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-xuexi-007",
+        "text": "错题本是提分利器，但要看怎么用。",
+        "context": "错题本使用",
+        "tags": ["错题本", "提分", "学习方法"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-xuexi-008",
+        "text": "身体健康是学习的本钱，别熬坏了身体。",
+        "context": "健康重要性",
+        "tags": ["身体健康", "学习", "本钱"],
+        "sentiment": "cautionary"
+      },
+      {
+        "id": "zxf-xuexi-009",
+        "text": "最后一个月冲刺很重要，但方法比时间更重要。",
+        "context": "最后阶段复习",
+        "tags": ["冲刺", "复习方法", "高考"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-xuexi-010",
+        "text": "大学不是终点，是起点，别以为考上就完了。",
+        "context": "大学学习态度",
+        "tags": ["大学", "学习态度", "长期规划"],
+        "sentiment": "cautionary"
+      },
+      {
+        "id": "zxf-xuexi-011",
+        "text": "大学期间多实习，纸上谈兵没用。",
+        "context": "大学实习",
+        "tags": ["实习", "大学", "就业准备"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-xuexi-012",
+        "text": "大学要把该考的证考了，别毕业才后悔。",
+        "context": "大学考证",
+        "tags": ["考证", "大学", "就业"],
+        "sentiment": "cautionary"
+      },
+      {
+        "id": "zxf-xuexi-013",
+        "text": "家长要做到两点：第一，当孩子的啦啦队，给他加油，告诉他爸爸妈妈永远相信你；第二，是给孩子托底。",
+        "context": "家长角色定位",
+        "tags": ["家长", "支持", "托底"],
+        "sentiment": "positive"
+      }
+    ],
+    "志愿填报策略": [
+      {
+        "id": "zxf-zhiyuan-001",
+        "text": "填志愿的优先级：城市 > 学校 > 专业。",
+        "context": "志愿填报核心原则",
+        "tags": ["优先级", "城市", "学校", "专业"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-zhiyuan-002",
+        "text": "不浪费每一分是志愿填报的核心技术。",
+        "context": "志愿填报技巧",
+        "tags": ["不浪费分", "志愿技巧", "技巧"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-zhiyuan-003",
+        "text": "平行志愿按"冲稳保"排列，冲的和保的要拉开差距。",
+        "context": "平行志愿技巧",
+        "tags": ["平行志愿", "冲稳保", "技巧"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-zhiyuan-004",
+        "text": "服从调剂一定要勾，否则可能一本变二本。",
+        "context": "服从调剂重要性",
+        "tags": ["服从调剂", "风险", "必填"],
+        "sentiment": "cautionary"
+      },
+      {
+        "id": "zxf-zhiyuan-005",
+        "text": "提前批是机会，但也要看清楚条件。",
+        "context": "提前批策略",
+        "tags": ["提前批", "机会", "条件"],
+        "sentiment": "neutral"
+      },
+      {
+        "id": "zxf-zhiyuan-006",
+        "text": "先进去再转专业是策略，但转专业有条件。",
+        "context": "转专业策略",
+        "tags": ["转专业", "策略", "条件"],
+        "sentiment": "neutral"
+      },
+      {
+        "id": "zxf-zhiyuan-007",
+        "text": "地理锁定效应：你在哪个城市读书，大概率就在那工作。",
+        "context": "地理锁定",
+        "tags": ["地理锁定", "城市选择", "就业"],
+        "sentiment": "cautionary"
+      },
+      {
+        "id": "zxf-zhiyuan-008",
+        "text": "填志愿是全家的事，要一起商量。",
+        "context": "家庭参与",
+        "tags": ["全家商量", "志愿填报", "家庭"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-zhiyuan-009",
+        "text": "要看三年的录取数据，别只看一年。",
+        "context": "数据分析",
+        "tags": ["三年数据", "录取数据", "分析"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-zhiyuan-010",
+        "text": "专家咨询有用，但自己要学会筛选信息。",
+        "context": "专家咨询",
+        "tags": ["专家咨询", "信息筛选", "独立判断"],
+        "sentiment": "neutral"
+      },
+      {
+        "id": "zxf-zhiyuan-011",
+        "text": "志愿填报要提前准备，别等出分才着急。",
+        "context": "提前准备",
+        "tags": ["提前准备", "时间规划", "建议"],
+        "sentiment": "cautionary"
+      },
+      {
+        "id": "zxf-zhiyuan-012",
+        "text": "高二就开始了解志愿填报信息，早起的鸟儿有虫吃。",
+        "context": "早期准备",
+        "tags": ["高二准备", "信息收集", "提前"],
+        "sentiment": "positive"
+      },
+      {
+        "id": "zxf-zhiyuan-013",
+        "text": "别被招生老师的花言巧语骗了，他们有任务。",
+        "context": "警惕招生陷阱",
+        "tags": ["招生陷阱", "警惕", "花言巧语"],
+        "sentiment": "critical"
+      }
+    ]
+  }
+}
