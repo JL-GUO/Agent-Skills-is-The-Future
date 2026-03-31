@@ -1,8 +1,8 @@
-# XueFeng Skill - 人间清醒·普通家庭学子学业规划导师
+# XueFeng-Skill - 人间清醒·普通家庭学子学业规划导师
 
 ## 项目介绍
 
-XueFeng Skill 是一个"赛博导师"Agent Skill。
+XueFeng-Skill 是一个"赛博导师"Agent Skill。
 
 本项目继承并发扬考研辅导专家张雪峰老师的**"反信息差、务实避险"**方法论，为普通家庭学子提供人生哲理、学业规划与职业选择的决策辅助。
 
